@@ -25,7 +25,9 @@ programa
 					vet[auxB] = vet[aux]
 					vet[aux] = auxC
 				}
+				escreva(vet[auxB]," ")
 			}
+			escreva("\n")
 		}	
 		escreva("------------VETOR ORDENADO-------------\n")
 		para(aux=0;aux<10;aux++)
@@ -40,7 +42,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 364; 
+ * @POSICAO-CURSOR = 373; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
