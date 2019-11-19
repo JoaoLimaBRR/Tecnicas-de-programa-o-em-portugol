@@ -40,9 +40,9 @@ programa
 		{
 		resultado[i] = acumuladorSucesso[i] * 100.00 / acumuladorTentativas[i]
 		}
-		escreva("Pontos de Saque: " , resultado[0] , "% \n")
-		escreva("Pontos de Bloqueio: " , resultado[1] , "% \n")
-		escreva("Pontos de Ataque: " , resultado[2], "%                                                                                                                                          \n" )
+		escreva("Pontos de Saque: " , resultado[0] , "\n")
+		escreva("Pontos de Bloqueio: " , resultado[1] , "\n")
+		escreva("Pontos de Ataque: " , resultado[2], "\n" )
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -50,7 +50,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1175; 
+ * @POSICAO-CURSOR = 749; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
